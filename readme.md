@@ -10,7 +10,7 @@ Ever wonder how much money you spent on Amazon? RBC Statements is an open-source
 python start.py
 ```
 
-and take a look at your output CSV in the project directory! Some future work on this repo will involve creating a report or formatting the CSV through pivot tables so you can determine what percentage went to food, eating out, alcohol, gas, Amazon, etc. without you having to filter the output CSV manually. This repository makes use of Tabula to conduct the OCR and Pandas to clean up the result file.
+and take a look at your output CSV in the project directory! Some future work on this repo will involve creating a report or formatting the CSV through pivot tables so you can determine what percentage went to food, eating out, alcohol, gas, Amazon, etc. without you having to filter the output CSV manually. This repository makes use of [Tabula](https://pypi.org/project/tabula-py/) to conduct the OCR and [Pandas](https://pypi.org/project/pandas/) to clean up the result file.
 
 ## Installation
 1. Clone or download this repository

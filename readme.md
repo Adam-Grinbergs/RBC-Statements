@@ -14,7 +14,7 @@ and take a look at your output CSV in the project directory! Some future work on
 
 ## Installation
 1. Clone or download this repository
-2. Go to the RBC website and download your credit card statements. They only keep them going back 7 years, so make sure you get them all!
+2. Go to the RBC website and download your credit card statements. RBC only maintains records going back 7 years, so make sure you get them all!
 3. Copy the credit card PDF statements into `~\CC\files` 
 ## Using the tool
 1. Open your command line and navigate to the project root folder (`CC`)

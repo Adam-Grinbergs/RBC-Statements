@@ -20,3 +20,6 @@ and take a look at your output CSV in the project directory! Some future work on
 1. Open your command line and navigate to the project root folder (`CC`)
 2. Type `python start.py`
 3. Look for `output.csv` in your root directory folder!
+## To Do
+1. Add workflow status badges
+2. Finish writing tests

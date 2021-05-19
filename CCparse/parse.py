@@ -4,9 +4,9 @@ from .join_csv import df_from_csvs
 import sys
 
 # The path for the PDFs to sit in.
-input_path = r'C:\Users\Adam\OneDrive\CC\files'
+input_path = './files'
 # The output path.
-output_path = r'C:\Users\Adam\OneDrive\CC\files'
+output_path = '../CC'
 
 
 def parse():

@@ -6,7 +6,7 @@ import sys
 # The path for the PDFs to sit in.
 input_path = './files'
 # The output path.
-output_path = '../CC'
+output_path = r'../RBC Statements'
 
 
 def parse():

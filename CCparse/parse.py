@@ -12,7 +12,7 @@ output_path = r'../RBC Statements'
 def parse():
     """Convert PDFs to CSV, then structure and combine"""
     # This converts each PDF into a unique csv.
-    #io.convert_into_by_batch(input_path, output_format='csv', pages='all')
+    io.convert_into_by_batch(input_path, output_format='csv', pages='all')
     # Creates one big dataframe from the output.
     df = df_from_csvs(input_path)
     # Change this name if you want your CSV to be named something else.
